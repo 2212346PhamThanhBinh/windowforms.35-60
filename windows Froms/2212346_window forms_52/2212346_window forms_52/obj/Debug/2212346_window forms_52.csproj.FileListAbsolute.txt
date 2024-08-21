@@ -1,0 +1,10 @@
+Z:\windows Froms\2212346_window forms_52\2212346_window forms_52\obj\Debug\2212346_window forms_52.csproj.AssemblyReference.cache
+Z:\windows Froms\2212346_window forms_52\2212346_window forms_52\obj\Debug\_2212346_window_forms_52.Form1.resources
+Z:\windows Froms\2212346_window forms_52\2212346_window forms_52\obj\Debug\_2212346_window_forms_52.Properties.Resources.resources
+Z:\windows Froms\2212346_window forms_52\2212346_window forms_52\obj\Debug\2212346_window forms_52.csproj.GenerateResource.cache
+Z:\windows Froms\2212346_window forms_52\2212346_window forms_52\obj\Debug\2212346_window forms_52.csproj.CoreCompileInputs.cache
+Z:\windows Froms\2212346_window forms_52\2212346_window forms_52\bin\Debug\2212346_window forms_52.exe.config
+Z:\windows Froms\2212346_window forms_52\2212346_window forms_52\bin\Debug\2212346_window forms_52.exe
+Z:\windows Froms\2212346_window forms_52\2212346_window forms_52\bin\Debug\2212346_window forms_52.pdb
+Z:\windows Froms\2212346_window forms_52\2212346_window forms_52\obj\Debug\2212346_window forms_52.exe
+Z:\windows Froms\2212346_window forms_52\2212346_window forms_52\obj\Debug\2212346_window forms_52.pdb

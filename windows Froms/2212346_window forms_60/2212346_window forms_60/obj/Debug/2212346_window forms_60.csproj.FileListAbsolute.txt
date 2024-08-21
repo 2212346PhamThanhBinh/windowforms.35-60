@@ -1,0 +1,15 @@
+C:\Users\HungRocket\Downloads\windows Froms\windows Froms\2212346_window forms_60\2212346_window forms_60\obj\Debug\2212346_window forms_60.csproj.AssemblyReference.cache
+C:\Users\HungRocket\Downloads\windows Froms\windows Froms\2212346_window forms_60\2212346_window forms_60\obj\Debug\_2212346_window_forms_60.Form1.resources
+C:\Users\HungRocket\Downloads\windows Froms\windows Froms\2212346_window forms_60\2212346_window forms_60\obj\Debug\_2212346_window_forms_60.Properties.Resources.resources
+C:\Users\HungRocket\Downloads\windows Froms\windows Froms\2212346_window forms_60\2212346_window forms_60\obj\Debug\2212346_window forms_60.csproj.GenerateResource.cache
+C:\Users\HungRocket\Downloads\windows Froms\windows Froms\2212346_window forms_60\2212346_window forms_60\obj\Debug\2212346_window forms_60.csproj.CoreCompileInputs.cache
+C:\Users\pc\Videos\windows Froms\windows Froms\2212346_window forms_60\2212346_window forms_60\obj\Debug\2212346_window forms_60.csproj.AssemblyReference.cache
+C:\Users\pc\Videos\windows Froms\windows Froms\2212346_window forms_60\2212346_window forms_60\obj\Debug\_2212346_window_forms_60.Form1.resources
+C:\Users\pc\Videos\windows Froms\windows Froms\2212346_window forms_60\2212346_window forms_60\obj\Debug\_2212346_window_forms_60.Properties.Resources.resources
+C:\Users\pc\Videos\windows Froms\windows Froms\2212346_window forms_60\2212346_window forms_60\obj\Debug\2212346_window forms_60.csproj.GenerateResource.cache
+C:\Users\pc\Videos\windows Froms\windows Froms\2212346_window forms_60\2212346_window forms_60\obj\Debug\2212346_window forms_60.csproj.CoreCompileInputs.cache
+C:\Users\pc\Videos\windows Froms\windows Froms\2212346_window forms_60\2212346_window forms_60\bin\Debug\2212346_window forms_60.exe.config
+C:\Users\pc\Videos\windows Froms\windows Froms\2212346_window forms_60\2212346_window forms_60\bin\Debug\2212346_window forms_60.exe
+C:\Users\pc\Videos\windows Froms\windows Froms\2212346_window forms_60\2212346_window forms_60\bin\Debug\2212346_window forms_60.pdb
+C:\Users\pc\Videos\windows Froms\windows Froms\2212346_window forms_60\2212346_window forms_60\obj\Debug\2212346_window forms_60.exe
+C:\Users\pc\Videos\windows Froms\windows Froms\2212346_window forms_60\2212346_window forms_60\obj\Debug\2212346_window forms_60.pdb

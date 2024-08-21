@@ -1,0 +1,10 @@
+Z:\windows Froms\2212346_windows forms_42\2212346_windows forms_42\bin\Debug\2212346_windows forms_42.exe.config
+Z:\windows Froms\2212346_windows forms_42\2212346_windows forms_42\bin\Debug\2212346_windows forms_42.exe
+Z:\windows Froms\2212346_windows forms_42\2212346_windows forms_42\bin\Debug\2212346_windows forms_42.pdb
+Z:\windows Froms\2212346_windows forms_42\2212346_windows forms_42\obj\Debug\2212346_windows forms_42.csproj.AssemblyReference.cache
+Z:\windows Froms\2212346_windows forms_42\2212346_windows forms_42\obj\Debug\_2212346_windows_forms_42.Form1.resources
+Z:\windows Froms\2212346_windows forms_42\2212346_windows forms_42\obj\Debug\_2212346_windows_forms_42.Properties.Resources.resources
+Z:\windows Froms\2212346_windows forms_42\2212346_windows forms_42\obj\Debug\2212346_windows forms_42.csproj.GenerateResource.cache
+Z:\windows Froms\2212346_windows forms_42\2212346_windows forms_42\obj\Debug\2212346_windows forms_42.csproj.CoreCompileInputs.cache
+Z:\windows Froms\2212346_windows forms_42\2212346_windows forms_42\obj\Debug\2212346_windows forms_42.exe
+Z:\windows Froms\2212346_windows forms_42\2212346_windows forms_42\obj\Debug\2212346_windows forms_42.pdb

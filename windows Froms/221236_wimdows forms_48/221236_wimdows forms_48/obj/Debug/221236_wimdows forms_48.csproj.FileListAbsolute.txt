@@ -1,0 +1,10 @@
+Z:\windows Froms\221236_wimdows forms_48\221236_wimdows forms_48\bin\Debug\221236_wimdows forms_48.exe.config
+Z:\windows Froms\221236_wimdows forms_48\221236_wimdows forms_48\bin\Debug\221236_wimdows forms_48.exe
+Z:\windows Froms\221236_wimdows forms_48\221236_wimdows forms_48\bin\Debug\221236_wimdows forms_48.pdb
+Z:\windows Froms\221236_wimdows forms_48\221236_wimdows forms_48\obj\Debug\221236_wimdows forms_48.csproj.AssemblyReference.cache
+Z:\windows Froms\221236_wimdows forms_48\221236_wimdows forms_48\obj\Debug\_221236_wimdows_forms_48.Form1.resources
+Z:\windows Froms\221236_wimdows forms_48\221236_wimdows forms_48\obj\Debug\_221236_wimdows_forms_48.Properties.Resources.resources
+Z:\windows Froms\221236_wimdows forms_48\221236_wimdows forms_48\obj\Debug\221236_wimdows forms_48.csproj.GenerateResource.cache
+Z:\windows Froms\221236_wimdows forms_48\221236_wimdows forms_48\obj\Debug\221236_wimdows forms_48.csproj.CoreCompileInputs.cache
+Z:\windows Froms\221236_wimdows forms_48\221236_wimdows forms_48\obj\Debug\221236_wimdows forms_48.exe
+Z:\windows Froms\221236_wimdows forms_48\221236_wimdows forms_48\obj\Debug\221236_wimdows forms_48.pdb

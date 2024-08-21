@@ -1,0 +1,10 @@
+C:\Users\HungRocket\Downloads\windows Froms\windows Froms\2212346_window forms_57\2212346_window forms_57\bin\Debug\2212346_window forms_57.exe.config
+C:\Users\HungRocket\Downloads\windows Froms\windows Froms\2212346_window forms_57\2212346_window forms_57\bin\Debug\2212346_window forms_57.exe
+C:\Users\HungRocket\Downloads\windows Froms\windows Froms\2212346_window forms_57\2212346_window forms_57\bin\Debug\2212346_window forms_57.pdb
+C:\Users\HungRocket\Downloads\windows Froms\windows Froms\2212346_window forms_57\2212346_window forms_57\obj\Debug\2212346_window forms_57.csproj.AssemblyReference.cache
+C:\Users\HungRocket\Downloads\windows Froms\windows Froms\2212346_window forms_57\2212346_window forms_57\obj\Debug\_2212346_window_forms_57.Form1.resources
+C:\Users\HungRocket\Downloads\windows Froms\windows Froms\2212346_window forms_57\2212346_window forms_57\obj\Debug\_2212346_window_forms_57.Properties.Resources.resources
+C:\Users\HungRocket\Downloads\windows Froms\windows Froms\2212346_window forms_57\2212346_window forms_57\obj\Debug\2212346_window forms_57.csproj.GenerateResource.cache
+C:\Users\HungRocket\Downloads\windows Froms\windows Froms\2212346_window forms_57\2212346_window forms_57\obj\Debug\2212346_window forms_57.csproj.CoreCompileInputs.cache
+C:\Users\HungRocket\Downloads\windows Froms\windows Froms\2212346_window forms_57\2212346_window forms_57\obj\Debug\2212346_window forms_57.exe
+C:\Users\HungRocket\Downloads\windows Froms\windows Froms\2212346_window forms_57\2212346_window forms_57\obj\Debug\2212346_window forms_57.pdb

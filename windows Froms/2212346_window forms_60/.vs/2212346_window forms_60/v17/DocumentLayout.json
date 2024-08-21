@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\Videos\\windows Froms\\windows Froms\\2212346_window forms_60\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4B396F-93B1-4D5C-AF03-313D5D79FCA8}|2212346_window forms_60\\2212346_window forms_60.csproj|C:\\Users\\pc\\Videos\\windows Froms\\windows Froms\\2212346_window forms_60\\2212346_window forms_60\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4B396F-93B1-4D5C-AF03-313D5D79FCA8}|2212346_window forms_60\\2212346_window forms_60.csproj|solutionrelative:2212346_window forms_60\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4B396F-93B1-4D5C-AF03-313D5D79FCA8}|2212346_window forms_60\\2212346_window forms_60.csproj|c:\\users\\pc\\videos\\windows froms\\windows froms\\2212346_window forms_60\\2212346_window forms_60\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4B396F-93B1-4D5C-AF03-313D5D79FCA8}|2212346_window forms_60\\2212346_window forms_60.csproj|solutionrelative:2212346_window forms_60\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4B396F-93B1-4D5C-AF03-313D5D79FCA8}|2212346_window forms_60\\2212346_window forms_60.csproj|c:\\users\\pc\\videos\\windows froms\\windows froms\\2212346_window forms_60\\2212346_window forms_60\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D4B396F-93B1-4D5C-AF03-313D5D79FCA8}|2212346_window forms_60\\2212346_window forms_60.csproj|solutionrelative:2212346_window forms_60\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Videos\\windows Froms\\windows Froms\\2212346_window forms_60\\2212346_window forms_60\\Form1.cs",
+              "RelativeDocumentMoniker": "2212346_window forms_60\\Form1.cs",
+              "ToolTip": "C:\\Users\\pc\\Videos\\windows Froms\\windows Froms\\2212346_window forms_60\\2212346_window forms_60\\Form1.cs",
+              "RelativeToolTip": "2212346_window forms_60\\Form1.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwB4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T02:12:11.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pc\\Videos\\windows Froms\\windows Froms\\2212346_window forms_60\\2212346_window forms_60\\Form1.cs",
+              "RelativeDocumentMoniker": "2212346_window forms_60\\Form1.cs",
+              "ToolTip": "C:\\Users\\pc\\Videos\\windows Froms\\windows Froms\\2212346_window forms_60\\2212346_window forms_60\\Form1.cs [Design]",
+              "RelativeToolTip": "2212346_window forms_60\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T02:12:12.831Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Videos\\windows Froms\\windows Froms\\2212346_window forms_60\\2212346_window forms_60\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "2212346_window forms_60\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\pc\\Videos\\windows Froms\\windows Froms\\2212346_window forms_60\\2212346_window forms_60\\Form1.Designer.cs",
+              "RelativeToolTip": "2212346_window forms_60\\Form1.Designer.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAwwDQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T02:17:18.296Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
